@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ingenium/ingenium.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
